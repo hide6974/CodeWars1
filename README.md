@@ -1,7 +1,7 @@
 # CodeWars1
 ## Badge
 
-[![CodeWars](https://www.codewars.com/users/fernaper/badges/large)](https://www.codewars.com/users/hide6974 'My Honor Badge')
+[![CodeWars](https://www.codewars.com/users/hide6974/badges/large)](https://www.codewars.com/users/hide6974 'My Honor Badge')
 
 ## Introduction
 
